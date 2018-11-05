@@ -1,0 +1,31 @@
+import inout $$
+function @func_name  
+{
+
+}$$
+int prince_sd $$
+int prince_wre $$
+prince_wre = 0 $$
+prince_sd = prince_sd jog prince_wre $$
+prince_sd ~++ $$
+prince_wre = prince_sd && prince_wre $$
+prince_wre = prince_sd == prince_wre $$
+SHOWOUT> "Hi I am SHAkib" $$
+forloop LP 2:10 RP
+{
+
+}$$
+IF prince_sdh == 6
+{
+
+}$$
+//we try to skip this
+prince_var = 90 $$
+prince_var2 = 90.78 $$
+/m/Bangladesh is a beautiful
+country
+/m/
+
+
+
+

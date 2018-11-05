@@ -1,0 +1,32 @@
+import a Headerfile NewLine
+user_function @func_name  {}NewLine
+Datatype identifiers NewLine
+Datatype identifiers NewLine
+identifiers assignment_operator Integer NewLine
+identifiers assignment_operator identifiers arithmatic_operator identifiers NewLine
+identifiers unary_operator NewLine
+identifiers assignment_operator identifiers logical_operator identifiers NewLine
+identifiers assignment_operator identifiers relational_operator identifiers NewLine
+library_function : "Hi I am SHAkib" NewLine
+for loop{}NewLine
+conditional_statement identifiers relational_operator Integer{}NewLine
+single line comment
+identifiers assignment_operator Integer NewLine
+identifiers assignment_operator Float NewLine
+multiple_line_comment
+Identfiers=16
+arithmatic_operator=1
+unary_operator=1
+_logical_operator=1
+relational_operator=2
+assignment_operator=6
+library_function=1
+datatype=2
+loop=1
+conditional_statement=1
+integer=3
+floatnum=1
+NewLine=14
+mcmnt=1
+_user_function=1
+Keyword=6
